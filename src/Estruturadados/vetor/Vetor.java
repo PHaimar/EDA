@@ -1,5 +1,5 @@
 
-package Estruturadados;
+package Estruturadados.vetor;
 
 public class Vetor {
     private String[] elementos; //array de Strings.
@@ -45,7 +45,7 @@ public class Vetor {
     @Override
     public String toString() {
         StringBuilder s = new StringBuilder(); //montar o texto
-        s.append("[");
+        s.append("kkk[");
 
         for (int i = 0; i < this.tamanho - 1; i++) {
             s.append(this.elementos[i]);

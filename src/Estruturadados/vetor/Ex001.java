@@ -1,4 +1,4 @@
-package Estruturadados;
+package Estruturadados.vetor;
 
 public class Ex001 {
     public static void main(String[] args) {
@@ -12,11 +12,12 @@ public class Ex001 {
 
         IO.println(alunos); //mostrando todos os alunos cadastrados
 
-        IO.println("Quantindad de alunos "+alunos.tamanho());
+        IO.println("Quantindade de alunos "+alunos.tamanho());
 
         IO.println(alunos.busca(3)); //aluno na terceira posicao
 
         IO.println(alunos.busca("Haimar"));
+
     }
 
 }

@@ -1,6 +1,4 @@
-package Estruturadados;
-
-import java.awt.image.ImagingOpException;
+package Estruturadados.vetor;
 
 public class Ex005 {
     public static void main(String[] args) {

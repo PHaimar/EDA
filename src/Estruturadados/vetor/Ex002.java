@@ -1,4 +1,4 @@
-package Estruturadados;
+package Estruturadados.vetor;
 
 public class Ex002 {
     public static void main(String[] args) {
