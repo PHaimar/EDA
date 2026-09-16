@@ -28,7 +28,7 @@ public class Teste001 {
 
 
 //        3. Mostrar elementos da pilha
- //       Sobrescreva o método toString() da classe Pilha para exibir os elementos no formato:
+ //       //Sobrescreva o método toString() da classe Pilha para exibir os elementos no formato:
 //[A, B, C]
 
         IO.println(pilha);
